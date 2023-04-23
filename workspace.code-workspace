@@ -1,0 +1,97 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "./node_modules/@needle-tools/engine"
+    },
+    {
+      "name": "needle.openworld",
+      "path": "node_modules/needle.openworld"
+    },
+    {
+      "name": "@needle-tools/mesh-lines",
+      "path": "node_modules/@needle-tools/mesh-lines"
+    },
+    {
+      "name": "my-sample-package",
+      "path": "node_modules/my-sample-package"
+    },
+    {
+      "name": "needle-lookingglass",
+      "path": "node_modules/needle-lookingglass"
+    },
+    {
+      "name": "@needle-tools/react-three-fiber",
+      "path": "node_modules/@needle-tools/react-three-fiber"
+    },
+    {
+      "name": "needle.hotspots",
+      "path": "node_modules/needle.hotspots"
+    },
+    {
+      "name": "needle.interactivemap",
+      "path": "node_modules/needle.interactivemap"
+    },
+    {
+      "name": "needle.samples.customxrbuttons",
+      "path": "node_modules/needle.samples.customxrbuttons"
+    },
+    {
+      "name": "needle.samples.postprocessing",
+      "path": "node_modules/needle.samples.postprocessing"
+    },
+    {
+      "name": "needle.samples.questpro",
+      "path": "node_modules/needle.samples.questpro"
+    },
+    {
+      "name": "needle.samples.scrollytelling",
+      "path": "node_modules/needle.samples.scrollytelling"
+    },
+    {
+      "name": "needle.sidescroller",
+      "path": "node_modules/needle.sidescroller"
+    },
+    {
+      "name": "needle.spatialaudio",
+      "path": "node_modules/needle.spatialaudio"
+    },
+    {
+      "name": "p5js",
+      "path": "node_modules/p5js"
+    },
+    {
+      "name": "particlestestscripts",
+      "path": "node_modules/particlestestscripts"
+    },
+    {
+      "name": "samples.sensors",
+      "path": "node_modules/samples.sensors"
+    },
+    {
+      "name": "samplescripts",
+      "path": "node_modules/samplescripts"
+    },
+    {
+      "name": "@needle-tools/needle-engine-samples",
+      "path": "node_modules/@needle-tools/needle-engine-samples"
+    },
+    {
+      "name": "ui-button-sample",
+      "path": "node_modules/ui-button-sample"
+    }
+  ],
+  "settings": {
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "window.title": "Sample",
+    "files.exclude": {
+      "package-lock.json": true,
+      "**/.git": true,
+      "**/.DS_Store": true,
+      "**/node_modules": true,
+      "**/*.meta": true
+    }
+  }
+}
