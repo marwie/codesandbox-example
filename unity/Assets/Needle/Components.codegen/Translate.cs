@@ -5,9 +5,9 @@
 
 namespace Needle.Typescript.GeneratedComponents
 {
-	public partial class Rotate : UnityEngine.MonoBehaviour
+	public partial class Translate : UnityEngine.MonoBehaviour
 	{
-		public float @speed = 5f;
+		public float @factor = 1f;
 		public void update(){}
 	}
 }
