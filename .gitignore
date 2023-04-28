@@ -8,3 +8,11 @@ include/console/
 include/three-mesh-ui-assets/
 include/fonts/
 build.log
+
+Logs
+Library
+Temp
+UserSettings
+obj
+*.csproj
+*.sln
