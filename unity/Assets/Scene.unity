@@ -169,7 +169,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DirectoryName: ../../codesandbox-example
   AutoExport: 1
-  Dependencies: []
+  Dependencies:
+  - Name: new-npmdef
+    VersionOrPath: Assets/New NpmDef.npmdef
+    Guid: 5fe93329796cd324d8565d38ffce127a
+  - Name: my-test-package
+    VersionOrPath: Assets/MyNpmDef.npmdef
+    Guid: 5fe93329796cd324d8565d38ffce127a
 --- !u!4 &460226121
 Transform:
   m_ObjectHideFlags: 0
@@ -308,6 +314,7 @@ GameObject:
   - component: {fileID: 725799230}
   - component: {fileID: 725799234}
   - component: {fileID: 725799235}
+  - component: {fileID: 725799236}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -419,6 +426,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   factor: 1
+--- !u!114 &725799236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725799229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c48b0221119b9d46aa4b8b7b84051b9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1259955318
 GameObject:
   m_ObjectHideFlags: 0

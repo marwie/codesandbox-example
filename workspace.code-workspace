@@ -5,6 +5,14 @@
     },
     {
       "path": "./node_modules/@needle-tools/engine"
+    },
+    {
+      "name": "new-npmdef",
+      "path": "node_modules/new-npmdef"
+    },
+    {
+      "name": "my-test-package",
+      "path": "node_modules/my-test-package"
     }
   ],
   "settings": {
