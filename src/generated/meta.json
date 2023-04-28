@@ -1,0 +1,11 @@
+{
+  "needleEditor": null,
+  "meta": null,
+  "absolutePath": "https://localhost:3000",
+  "sceneName": "Scene",
+  "deployOnly": false,
+  "generator": "com.needle.engine-exporter@3.2.15-exp",
+  "gzip": false,
+  "allowHotReload": true,
+  "hasProLicense": false
+}
